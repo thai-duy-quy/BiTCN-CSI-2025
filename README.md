@@ -1,11 +1,11 @@
-# Enhanced Wi-Fi Sensing: Leveraging Phase and Amplitude of CSI for Superior Accuracy
+# Human Activity Recognition Based on Wi-Fi CSI Using Bidirectional Temporal Convolutional Network (BiTCN) 
 ## Introduction
-PA-CSI is the library for WiFi CSI HAR that leverages both amplitude and phase features from Wi-Fi signals, incorporating attention mechanisms across both temporal and channel dimensions, along with multi-scale convolutional neural networks (CNNs). It is implemented by PyTorch and Tensorflow. This is our paper [*Enhanced Human Activity Recognition Using Wi-Fi Sensing: Leveraging Phase and Amplitude with Attention Mechanisms*](https://doi.org/10.3390/s25041038). 
+BiTCN-CSI-2025 is the library for WiFi CSI HAR that using Bidirectional Temporal Convolutional Network (BiTCN). It is implemented by PyTorch. This is our paper, which under review in  [*The Fourteenth International Conference on Ubi-Media Computing*]([https://doi.org/10.3390/s25041038](https://2026umediaconf.com/)). 
 
 ```
 @article{yang2023benchmark,
-  title={Enhanced Human Activity Recognition Using Wi-Fi Sensing: Leveraging Phase and Amplitude with Attention Mechanisms},
-  author={Thai Duy Quy, Chih-Yang Lin, Timothy K. Shih},
+  title={Human Activity Recognition Based on Wi-Fi CSI Using Bidirectional Temporal Convolutional Network (BiTCN)},
+  author={Thai Duy Quy, Chih-Yang Lin, Shu-Yen Shih},
   year={2025}
 }
 ```
